@@ -1,2 +1,2 @@
 # IntroToGithub
-A demo for how to use Github
+This readme file is changed now.
